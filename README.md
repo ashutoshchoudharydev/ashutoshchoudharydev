@@ -14,7 +14,7 @@ Focused on writing structured code and understanding how real systems work.
 • PHP  
 • MySQL  
 • Git & GitHub  
-
+• javascript 
 ---
 
 ## Featured Project
